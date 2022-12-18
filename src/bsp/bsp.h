@@ -7,6 +7,7 @@ extern "C"{
 #include "config/board/pin_mux.h"
 #include "config/board/peripherals.h"
 #include "fsl_gpio.h"
+#include "fsl_lpuart.h"
 
 #define logPrintf(...) printf(__VA_ARGS__)
 

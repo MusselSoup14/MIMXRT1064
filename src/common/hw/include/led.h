@@ -2,7 +2,6 @@
 extern "C" {
 #endif
 
-
 #include "hw_def.h"
 
 #ifdef _USE_HW_LED

@@ -32,6 +32,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/device}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/sdk/drivers}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/hw/include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/hw}&quot;"/>
 								</option>
@@ -67,6 +68,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/device}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/sdk/drivers}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/hw/include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/hw}&quot;"/>
 								</option>
@@ -116,7 +118,7 @@
 					<fileInfo id="com.crt.advproject.config.exe.debug.848257688.79892173" name="fsl_lpuart_freertos.h" rcbsApplicability="disable" resourcePath="src/lib/sdk/drivers/fsl_lpuart_freertos.h" toolsToInvoke=""/>
 					<fileInfo id="com.crt.advproject.config.exe.debug.848257688.72231991" name="fsl_lpi2c_freertos.h" rcbsApplicability="disable" resourcePath="src/lib/sdk/drivers/fsl_lpi2c_freertos.h" toolsToInvoke=""/>
 					<sourceEntries>
-						<entry excluding="src/lib/sdk/drivers/fsl_lpspi_freertos.c|src/lib/sdk/drivers/fsl_lpspi_freertos.h|src/lib/sdk/drivers/fsl_lpi2c_freertos.c|src/lib/sdk/drivers/fsl_lpi2c_freertos.h|src/lib/sdk/drivers/fsl_lpuart_freertos.c|src/lib/sdk/drivers/fsl_lpuart_freertos.h|ap" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src - 복사본|src/lib/sdk/drivers/fsl_lpspi_freertos.c|src/lib/sdk/drivers/fsl_lpspi_freertos.h|src/lib/sdk/drivers/fsl_lpi2c_freertos.c|src/lib/sdk/drivers/fsl_lpi2c_freertos.h|src/lib/sdk/drivers/fsl_lpuart_freertos.c|src/lib/sdk/drivers/fsl_lpuart_freertos.h|ap" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
